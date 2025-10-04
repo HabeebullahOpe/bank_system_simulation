@@ -1,0 +1,4 @@
+# Force GitHub to recognize Rust files
+*.rs linguist-language=Rust
+*.toml linguist-language=TOML
+*.lock linguist-language=Text
